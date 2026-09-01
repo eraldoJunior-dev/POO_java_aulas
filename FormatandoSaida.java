@@ -1,9 +1,9 @@
 void main() {
 
     // BASICO: substituir valores em uma string formatada
-    String nome  = "Maria";
-    int    idade = 20;
-    double nota  = 8.756;
+    String nome  = "Eraldo";
+    int    idade = 22;
+    double nota  = 9.999;
 
     // System.out.format — semelhante ao printf do C
     System.out.format("Aluno: %s%n", nome);
